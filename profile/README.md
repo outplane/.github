@@ -2,7 +2,7 @@
 
 # Out Plane
 
-### From first deploy to full scale.
+### Where AI agents deploy and run your software.
 
 Push your code, we handle the rest: servers, databases, scaling, and compliance.
 No Kubernetes. No YAML. No ceiling.
