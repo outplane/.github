@@ -7,7 +7,7 @@
 Push your code, we handle the rest: servers, databases, scaling, and compliance.
 No Kubernetes. No YAML. No ceiling.
 
-<img src="[https://outplane.com/features/otto-chat.gif](https://outplane.com/changelog/2026-08-cli.gif)" alt="Deploy your whole stack by chatting with Otto" width="820" />
+<img src="[https://outplane.com/changelog/2026-08-cli.gif](https://outplane.com/changelog/2026-08-cli.gif)" alt="Deploy your whole stack by chatting with Otto" width="820" />
 
 **[Deploy in 60 seconds →](https://outplane.com)** · [Docs](https://docs.outplane.com/docs/console) · [Runway ($5k credits)](https://outplane.com/runway)
 
